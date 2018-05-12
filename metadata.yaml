@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20019#Lectures-on-LandscapeDelivered-at-Oxford-in-Lent-Term-1871
 gutenberg_bookshelf: Art
 gutenberg_issued: '2006-12-04'
 gutenberg_type: Text
